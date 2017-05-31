@@ -3,3 +3,5 @@ The reason I created Featurea is to avoid complexity with editing not human-read
 Tutorial that source code is belongs to https://www.youtube.com/watch?v=CAPVBTKk3Ww
 
 Featurea https://github.com/dmitrykolesnikovich/featurea
+
+All this "metadata" and "asset" is just out of my criticism.
